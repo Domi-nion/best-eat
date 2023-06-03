@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/best-eat.git/static/css/main.006cf92b.css",
+    "main.js": "/best-eat.git/static/js/main.6dd4f57e.js",
+    "index.html": "/best-eat.git/index.html",
+    "main.006cf92b.css.map": "/best-eat.git/static/css/main.006cf92b.css.map",
+    "main.6dd4f57e.js.map": "/best-eat.git/static/js/main.6dd4f57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006cf92b.css",
+    "static/js/main.6dd4f57e.js"
+  ]
+}
